@@ -1,0 +1,17 @@
+{
+  "name": "DynamicsCrmClient",
+  "version": "0.0.1",
+  "description": "A generic Dynamics CRM client based on XrmServiceToolkit",
+  "license" : "Microsoft Public License (Ms-PL)",
+  "author": {
+    "name": "Jean-Philippe Melanson",
+    "email": "jmelanson@balihoo.com"
+  },
+  "dependencies": {
+    "xmldom": "^0.1.19",
+    "jquery": "^1.7.2",
+    "xpath": "^0.0.9",
+    "xhr2": "^0.1.2",
+    "uuid": "^2.0.1"
+  }
+}
